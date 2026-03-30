@@ -1,0 +1,87 @@
+symptoms,disease
+fever cough headache,Flu
+high fever body pain fatigue,Flu
+fever chills muscle pain,Flu
+dry cough fever weakness,Flu
+fever headache sore throat,Flu
+high temperature cough cold,Flu
+fever runny nose headache,Flu
+body pain fever cough,Flu
+fever fatigue nausea,Flu
+chills fever cough,Flu
+
+sore throat sneezing cold,Common Cold
+runny nose mild fever,Common Cold
+sneezing watery eyes cold,Common Cold
+cold cough sore throat,Common Cold
+nasal congestion sneezing,Common Cold
+mild fever runny nose,Common Cold
+throat irritation cold,Common Cold
+sneezing headache cold,Common Cold
+cough runny nose cold,Common Cold
+cold nasal blockage,Common Cold
+
+headache nausea dizziness,Migraine
+severe headache vomiting,Migraine
+throbbing headache nausea,Migraine
+headache sensitivity to light,Migraine
+one side headache nausea,Migraine
+headache blurred vision,Migraine
+migraine headache dizziness,Migraine
+headache fatigue nausea,Migraine
+headache vomiting,Migraine
+headache light sensitivity,Migraine
+
+stomach pain vomiting diarrhea,Food Poisoning
+abdominal pain nausea loose motion,Food Poisoning
+vomiting diarrhea stomach cramps,Food Poisoning
+stomach ache nausea vomiting,Food Poisoning
+food intake vomiting diarrhea,Food Poisoning
+abdominal cramps diarrhea,Food Poisoning
+stomach pain food poisoning,Food Poisoning
+nausea vomiting loose motion,Food Poisoning
+diarrhea stomach pain nausea,Food Poisoning
+vomiting abdominal pain,Food Poisoning
+
+chest pain breathlessness,Heart Disease
+chest tightness shortness of breath,Heart Disease
+chest discomfort sweating,Heart Disease
+breathlessness chest pressure,Heart Disease
+chest pain dizziness,Heart Disease
+heart pain breath issue,Heart Disease
+chest pain fatigue,Heart Disease
+shortness of breath chest pain,Heart Disease
+chest heaviness sweating,Heart Disease
+chest pain nausea,Heart Disease
+
+frequent urination thirst fatigue,Diabetes
+increased thirst weight loss,Diabetes
+frequent hunger urination,Diabetes
+fatigue blurred vision diabetes,Diabetes
+high blood sugar symptoms,Diabetes
+thirst frequent urination,Diabetes
+weight loss fatigue thirst,Diabetes
+diabetes symptoms fatigue,Diabetes
+blurred vision thirst,Diabetes
+frequent urination weakness,Diabetes
+
+fever rash joint pain,Dengue
+high fever rash headache,Dengue
+fever bleeding gums,Dengue
+joint pain fever weakness,Dengue
+rash fever muscle pain,Dengue
+high fever eye pain,Dengue
+dengue fever symptoms,Dengue
+fever nausea rash,Dengue
+body pain fever rash,Dengue
+severe fever dengue,Dengue
+
+unexplained weight loss fatigue weakness,Cancer
+persistent pain weight loss,Cancer
+lump swelling unusual growth,Cancer
+constant tiredness loss of appetite,Cancer
+abnormal bleeding weight loss,Cancer
+chronic pain fatigue weakness,Cancer
+change in bowel habits weight loss,Cancer
+difficulty swallowing persistent pain,Cancer
+long lasting cough weight loss,Cancer
